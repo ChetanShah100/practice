@@ -3,6 +3,7 @@ import './App.css';
 
 import Home from './Home'
 import Test from './Component/Test';
+import Signup from './Component/Signup';
 
 
 function App() {
@@ -10,7 +11,7 @@ function App() {
     <div div className="App">
   
  <h2> welcome in react js</h2>
- <Home/>
+ <Signup/>
 
  
 </div>

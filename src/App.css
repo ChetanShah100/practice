@@ -1,39 +1,38 @@
-.App {
+.Signup{
+  border: 2px solid black;
+  height: 600px;
+  width: 35%;
+  margin: auto;
+  border-radius: 5px;
+  margin-top: 20px;
+  background-color: white;
+box-shadow: 4px 4px 10px; 
+background-image: url(https://st4.depositphotos.com/3935421/31192/i/450/depositphotos_311928464-stock-photo-safety-lock-login-password-data.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+} 
+h3{
   text-align: center;
+  color: black;
+  font-weight: bold;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.input{
+margin-left: 120px; 
+width: 70%;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.input input{
+  width: 80%;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+button{
+  background-color: rgb(47, 172, 214);
 }
-
-.App-link {
-  color: #61dafb;
+label{
+  color: wheat;
+  font-weight: bold;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+body{
+  /* background-color: rgb(162, 143, 143); */
+ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY8QvUYtLhGN6k75R4p-z-rb56PmBfpRU3F2dD5B_4b97Sxy26H8vwsxlVNtOuC0chMlY&usqp=CAU);
+ background-repeat: no-repeat;
+ background-size: cover;
 }
- 

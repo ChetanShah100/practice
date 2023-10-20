@@ -7,13 +7,14 @@ import Home from './Home'
 import About from './About';
 import 'bootstrap/dist/css/bootstrap.min.css'; 
 import Test from './Component/Test';
+import Signup from './Component/Signup';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-   
-  <Test/>
+   <Test/>
+  {/* <Signup/> */}
     
 
   </React.StrictMode>

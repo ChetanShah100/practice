@@ -1,0 +1,38 @@
+.Signup{
+    border: 2px solid black;
+    height: 600px;
+    width: 35%;
+    margin: auto;
+    border-radius: 5px;
+    margin-top: 20px;
+    background-color: white;
+  box-shadow: 4px 4px 10px; 
+  background-image: url(https://st4.depositphotos.com/3935421/31192/i/450/depositphotos_311928464-stock-photo-safety-lock-login-password-data.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+} 
+h3{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+.input{
+margin-left: 120px; 
+width: 70%;
+}
+.input input{
+    width: 80%;
+}
+button{
+    background-color: rgb(47, 172, 214);
+}
+label{
+    color: wheat;
+    font-weight: bold;
+}
+body{
+    /* background-color: rgb(162, 143, 143); */
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY8QvUYtLhGN6k75R4p-z-rb56PmBfpRU3F2dD5B_4b97Sxy26H8vwsxlVNtOuC0chMlY&usqp=CAU);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
